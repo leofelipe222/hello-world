@@ -3,4 +3,11 @@ hello-world
 
 My first repository on Github for testing. 
 
-Making changes to learn how to use github.
+To build the project simply run:
+	 "make". 
+
+It will create a "hello" binary file.
+
+To clean, run:
+	
+	make clean
